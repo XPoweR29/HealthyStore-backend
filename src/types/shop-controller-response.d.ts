@@ -1,0 +1,1 @@
+export type StatusReposnse = {isSuccess: true} | {isSuccess: false, message: string};
